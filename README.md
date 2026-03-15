@@ -8,7 +8,7 @@ reports produced across eight distinct technical domains between 2024 and 2026.
 Each paper is accompanied by a working prototype. All research was conducted 
 independently or as part of competitive hackathons and academic submissions.
 
-**DOI:** [10.5281/zenodo.XXXXXXX](https://zenodo.org) ← replace with your real DOI after Zenodo generates it
+**DOI:** https://doi.org/10.5281/zenodo.19026688 
 
 ---
 
